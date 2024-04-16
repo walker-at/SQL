@@ -1,0 +1,1 @@
+This repository is contains the SQL code used to setup my Healthcare Flu Shot visualization using Tableau. This project can be viewed at: https://public.tableau.com/app/profile/walker.atterbury/viz/HealthcareSystemFluShots2022_17122423417820/Dashboard1#1
