@@ -1,4 +1,4 @@
-This repository contains the SQL code used to setup my HCAHPS Patient Survey visualization using Tableau. This project can be viewed at: https://public.tableau.com/app/profile/walker.atterbury/viz/HealthcareSystemFluShots2022_17122423417820/Dashboard1#1
+This repository contains the SQL code used to setup my HCAHPS Patient Survey visualization using Tableau. This project can be viewed at: https://public.tableau.com/views/HCAHPSPatientSurveyDashboard/HCAHPSDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Problem Statement:
 Visualize the performance of hospitals on the HCAHPS. The Hospital Value Base Pruchasing Program is one program introduced after the Affordable Care Act (2010). The gist of the Value Based Purchasing Program is that hospitals have their payments adjusted based off the quality of the care they provide each year. This is assessed in 4 domains. The domain relevant to this project is the Person and Community Engagement Domain, which is measured by the Hospital Consumer Assessment of Healthcare Providers and Systems (HCAHPS): a standardized, publicly-reported survey of patients' perspectives of hospital care. 
