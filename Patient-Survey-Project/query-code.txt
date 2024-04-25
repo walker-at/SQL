@@ -1,7 +1,7 @@
 -- im using a cte because
 -- we are getting the number of beds to later classify hospitals as small, medium, and large
 -- some hospitals have multiple dates where they reported the number of beds so we want to find the number of beds at the latest date
--- wrap it in a create table statement before exporitng to tableau
+-- wrap it in a create table statement before exportng to tableau
 
 create table "postgres"."Hospital_Data".tableau_file as
 
