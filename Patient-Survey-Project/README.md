@@ -7,6 +7,6 @@ Question Examples with answers ranging from "Never" to "Always", or 1-10:
 
 * "Was the hospital quiet at night and clean?"
 
-* "Did doctors and nurses always coomunicate with you well?"
+* "Did doctors and nurses always comunicate with you well?"
 
 With this dashboard, you can filter by hospital size and location state to examine the percentage of patients that scored the selected hospital a 9 or 10 out of 10. It also tracks the survey response rate as well as the total number of surveys completed per hospital in 2022. Finally, it visualizes how the selected hospital performed in comparison to other hospitals in its size cohort. This project provides a holistic view of HCAHPS performance, empowering informed decision-making and efficient hospital management.
